@@ -1,0 +1,16 @@
+{
+    "name": "MAX72xx",
+    "version": "1.0.0",
+    "keywords": "MAX7219,MAX7221",
+    "description": "MAX7219/MAX7221数码管驱动IC库",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/intoyuniot/MAX72xx.git"
+    },
+    "authors": {
+        "name": "robin",
+        "email": "robin@molmc.com"
+    },
+    "frameworks": "arduino",
+    "platforms": "*"
+}
